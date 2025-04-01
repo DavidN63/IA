@@ -11,3 +11,7 @@ Resultados obtidos pela IA no segundo exemplo
 
 -------------------------------------------
 Resultados obtidos pela IA no terceiro exemplo
+![Captura de tela 2025-03-31 213312](https://github.com/user-attachments/assets/b5da7b19-1366-4170-91b2-af3ba5e5b8de)
+![Captura de tela 2025-03-31 213347](https://github.com/user-attachments/assets/f062150f-2826-45aa-92ec-7ad6a1e033f7)
+![Captura de tela 2025-03-31 213340](https://github.com/user-attachments/assets/578c6bf6-51fc-4523-bf92-71eb6428a678)
+![Captura de tela 2025-03-31 213329](https://github.com/user-attachments/assets/fa07e407-a20f-40d9-88fa-38cfdb500397)
